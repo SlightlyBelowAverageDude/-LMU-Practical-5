@@ -4,6 +4,21 @@ output: html_document
 date: "2025-05-23"
 ---
 
+## 2. Gueassing Game:
+
+### a)
+#### 1.
+1 Million probably
+
+#### 2.
+Probably 135.973 people
+
+#### 3.
+36%
+
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
